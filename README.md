@@ -5,6 +5,7 @@
 * Main logic for grid in inside `grid.py`
 
 ## Running code
+* Python packages `matplotlib` and `celluloid` should be installed
 * Run `python index.py` to run the program
 * A GIF named `conway_game_of_life.gif` will be created which displays all the state after every iteration
 
